@@ -18,6 +18,7 @@ Vite, React, Redux, React Router, Redux-Persist, Material UI, Axios, Dayjs.
 frontend: Vite, React, Redux, React Router, Material UI, Axios, Formik, Yup, React-Redux, React Toastify, React Modal, React Hot Toast, React Icons, Redux Persist, ESLint,
 backend: Node.js, Express, MongoDB (через Mongoose), JWT (jsonwebtoken), Bcrypt, Cloudinary, CORS, dotenv, Swagger (swagger-ui-express, redocly), Nodemailer, Multer, Pino, Joi.
 
+Портфоліо ще в процесі наповнення – не всі проєкти додані, проте їх можна переглянути в моїх репозиторіях на GitHub
 
 ## 📫 Контакти  
 - [LinkedIn](www.linkedin.com/in/olena-shatalova)  
