@@ -82,7 +82,7 @@ Vite, SASS, Swiper, Animate.css
 Навчальний проєкт, що реалізує серверну чатсину застосунку з використанням Node.js, MongoDB, CRUD-операцій, авторизації (JWT, Google), валідації, заватнажень зображень та відновлення паролю через email. Для тестування API використовувася Postman. Робота структурована у відповідних гілках.
 
 **Технології:**
-Express.js, Mongoose, Swagger, Postman, Mongo Atlas, Mongo DB Compass 
+Express.js, Mongoose, Swagger, Postman, Mongo Atlas, Mongo DB Compass, Cloudinary.
 
 🔗 [GitHub Repository](https://github.com/OlenaShatalova/nodejs-hw-mongodb/tree/main)
 
