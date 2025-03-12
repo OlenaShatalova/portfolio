@@ -2,6 +2,8 @@
 
 ## 🚀 Проєкти
 
+---
+---
 ### 🔵 Rental Car
 <img src="assets/rental-car.png" width="300" height="200" />
 
@@ -19,8 +21,8 @@ Vite, React, Redux, React Router, Redux-Persist, Material UI, Axios, Dayjs.
 
 
 ### 🔵 Water Tracker
-  <img src="assets/water-tracker-dark.png" width="300" height="200" />
-  <img src="assets/water-tracker-light.png" width="300" height="200" />
+ <img src="assets/water-tracker-dark.png" width="300" height="200" style="margin-right: 41px; display: inline-block;" />
+ <img src="assets/water-tracker-light.png" width="300" height="200" style="display: inline-block;" />
 
 **Опис:**
 Командний проєкт для відслідковування споживання води. Має авторизацію, відновлення пароля, користувач може додавати, видаляти та редагувати порції води. Відображає відсоток спожитої води відносно рекомендованої норми за день та статистику за місяц (по днях). Має сервер на Node.js та документацію API.
@@ -45,7 +47,7 @@ backend: Node.js, Express, MongoDB (через Mongoose), JWT (jsonwebtoken), Bc
 Комерційний проєкт лендингової сторінки. Виконано згідно макету у відповідний термін виконання. В проєкті приймала участь розробника та TeamLead-а.
 
 **Технології:**
-Vite, SASS, Swiper.
+Vite, HTML, SASS, Java Script, Swiper.
 
 🔗 [Live Demo](https://olenashatalova.github.io/grand-cafe-story/) 
 🔗 [GitHub Repository](https://github.com/OlenaShatalova/grand-cafe-story) 
@@ -61,7 +63,7 @@ Vite, SASS, Swiper.
 Комерційний проєкт лендингової сторінки. Виконано згідно макету у відповідний термін виконання. В проєкті приймала участь розробника.
 
 **Технології:**
-Vite, SASS, Swiper, Animate.css
+Vite, HTML, SASS, Java Script, Swiper, Animate.css
 
 🔗 [Live Demo](https://yuliia-tyzhai.github.io/color-puzzle/) 
 🔗 [GitHub Repository](https://github.com/Yuliia-Tyzhai/color-puzzle)
@@ -119,8 +121,8 @@ React, Redux, Redux Thunk, DOM, Material UI, Formik, Persist, Helmet, Toaster, I
 
 
 ### 🔵 Search movies
-<img src="assets/movies.png" width="300" height="200" />
-<img src="assets/details-movie.png" width="300" height="200" />
+<img src="assets/movies.png" width="300" height="200" style="margin-right: 41px; display: inline-block;" />
+<img src="assets/details-movie.png" width="300" height="200" style="display: inline-block;" />
 
 **Опис:**
 Навчальний проєкт для пошуку фільмів, який дозволяє шукати фільми, переглядати їх деталі та переходити між сторінками з підтримкою маршрутизації, включаючи вкладені маршрути. Реалізовано Lazy Load, бекграундні ефекти, а також підтримка кнопки повернення через використання хуків для маршрутизації. Стилізация адаптована для різних розмірів екранів.
@@ -132,6 +134,7 @@ React, React Router, Axios, TMDB API, Toastify, Spinner, TSParticles, ModernNorm
 🔗 [GitHub Repository](https://github.com/OlenaShatalova/goit-react-hw-05)
 
 
+---
 
 
 ### 🔵 Web Studio site
@@ -151,7 +154,7 @@ HTML, CSS, Mobile First, Java Script, Media Queries, Flexbox, ImageOptim, Transi
 Портфоліо ще в процесі наповнення – не всі проєкти додані, проте їх можна переглянути в моїх репозиторіях на GitHub
 
 ## 📫 Контакти  
-- [LinkedIn](www.linkedin.com/in/olena-shatalova)  
+- [LinkedIn](https://www.linkedin.com/in/olena-shatalova)  
 - [GitHub](https://github.com/OlenaShatalova)
-- 📱 [Phone](+380673000888)  
+- 📱 [Phone](tel:+380673000888)  
 - 💬 [Telegram](https://t.me/matsailol)
