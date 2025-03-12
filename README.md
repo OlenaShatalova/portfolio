@@ -3,7 +3,8 @@
 ## 🚀 Проєкти
 
 ### 🔵 Rental Car
-![Rental Car](assets/rental-car.png)
+<img src="assets/rental-car.png" width="300" height="200" />
+
 
 
 **Опис:**
