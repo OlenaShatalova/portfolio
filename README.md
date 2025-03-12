@@ -19,10 +19,12 @@ Vite, React, Redux, React Router, Redux-Persist, Material UI, Axios, Dayjs.
 
 
 ### 🔵 Water Tracker
-<p>
-  <img src="assets/water-tracker-dark.png" width="300" height="200" style="margin-right: 41px; margin-bottom: 41px; display: inline-block;"/>
-  <img src="assets/water-tracker-light.png" width="300" height="200" style="display: inline-block;"/>
-</p>
+<div style="display: inline-block; margin-right: 41px; margin-bottom: 41px;">
+  <img src="assets/water-tracker-dark.png" width="300" height="200" />
+</div>
+<div style="display: inline-block; margin-bottom: 41px;">
+  <img src="assets/water-tracker-light.png" width="300" height="200" />
+</div>
 
 
 **Опис:**
@@ -74,7 +76,7 @@ Vite, SASS, Swiper, Animate.css
 
 
 ### 🔵 Node.js
-<img src="assets/node-js" width="300" height="200" />
+<img src="assets/node-js.png" width="300" height="200" />
 
 **Опис:**
 Навчальний проєкт, що реалізує серверну чатсину застосунку з використанням Node.js, MongoDB, CRUD-операцій, авторизації (JWT, Google), валідації, заватнажень зображень та відновлення паролю через email. Для тестування API використовувася Postman. Робота структурована у відповідних гілках.
@@ -128,7 +130,7 @@ React, Redux, Redux Thunk, DOM, Material UI, Formik, Persist, Helmet, Toaster, I
 Перший навчальний проєкт, виконаний на HTML, CSS, адаптований під усі розміри екранів за підходом Mobile First. Використано транзішени, базові анімації, оптимізацію та адаптацію зображень для різних розширень і якості. Дизайн виконаний відповідно до макета, реалізована навігація по сторінці. Форма викликається у модальному вікні.
 
 **Технології:**
-HTML, CSS, Mobile First, Media Queries, Flexbox, ImageOptim, Transitions, <!-- Animations, --> Forms.
+HTML, CSS, Mobile First, Java Script, Media Queries, Flexbox, ImageOptim, Transitions, <!-- Animations, --> Forms.
 
 🔗 [Live Demo](https://olenashatalova.github.io/goit-markup-hw-06/index.html) 
 🔗 [GitHub Repository](https://github.com/OlenaShatalova/goit-markup-hw-06)
