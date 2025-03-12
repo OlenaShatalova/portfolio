@@ -5,8 +5,6 @@
 ### 🔵 Rental Car
 <img src="assets/rental-car.png" width="300" height="200" />
 
-
-
 **Опис:**
 Самостійний проєкт для оренди автомобілів, виконаний за технічним завданням. Користувачі можуть шукати автомобілі, додавати в обране, переглядати деталі та замовляти через форму.
 
@@ -17,12 +15,14 @@ Vite, React, Redux, React Router, Redux-Persist, Material UI, Axios, Dayjs.
 🔗 [GitHub Repository](https://github.com/OlenaShatalova/rental-car)
 
 
-
+---
 
 
 ### 🔵 Water Tracker
-![Water Tracker](assets/water-tracker-dark.png)
-![Water Tracker](assets/water-tracker-light.png)
+<p>
+  <img src="assets/water-tracker-dark.png" width="300" height="200" style="margin-right: 41px; display: inline-block;"/>
+  <img src="assets/water-tracker-light.png" width="300" height="200" style="display: inline-block;"/>
+</p>
 
 
 **Опис:**
@@ -38,9 +38,11 @@ backend: Node.js, Express, MongoDB (через Mongoose), JWT (jsonwebtoken), Bc
 🔗 [GitHub Repository: back](https://github.com/OlenaShatalova/team-03-water-tracker-backend)
 
 
-### 🔵 Grand Cafe Story
-![Grand Cafe Story](assets/grand-cafe-story.png)
+---
 
+
+### 🔵 Grand Cafe Story
+<img src="assets/grand-cafe-story.png" width="300" height="200" />
 
 **Опис:**
 Комерційний проєкт лендингової сторінки. Виконано згідно макету у відповідний термін виконання. В проєкті приймала участь розробника та TeamLead-а.
@@ -52,9 +54,11 @@ Vite, SASS, Swiper.
 🔗 [GitHub Repository](https://github.com/OlenaShatalova/grand-cafe-story)
 
 
-### 🔵 Color Puzzle
-![Color Puzzle](assets/color-puzzle.png)
+---
 
+
+### 🔵 Color Puzzle
+<img src="assets/color-puzzle.png" width="300" height="200" />
 
 **Опис:**
 Комерційний проєкт лендингової сторінки. Виконано згідно макету у відповідний термін виконання. В проєкті приймала участь розробника.
@@ -65,6 +69,8 @@ Vite, SASS, Swiper, Animate.css
 🔗 [Live Demo](https://yuliia-tyzhai.github.io/color-puzzle/)
 🔗 [GitHub Repository](https://github.com/Yuliia-Tyzhai/color-puzzle)
 
+
+---
 
 
 Портфоліо ще в процесі наповнення – не всі проєкти додані, проте їх можна переглянути в моїх репозиторіях на GitHub
