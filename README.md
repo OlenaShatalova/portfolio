@@ -118,6 +118,22 @@ React, Redux, Redux Thunk, DOM, Material UI, Formik, Persist, Helmet, Toaster, I
 ---
 
 
+### 🔵 Search movies
+<img src="assets/movies.png" width="300" height="200" />
+<img src="assets/details-movie.png" width="300" height="200" />
+
+**Опис:**
+Навчальний проєкт для пошуку фільмів, який дозволяє шукати фільми, переглядати їх деталі та переходити між сторінками з підтримкою маршрутизації, включаючи вкладені маршрути. Реалізовано Lazy Load, бекграундні ефекти, а також підтримка кнопки повернення через використання хуків для маршрутизації. Стилізация адаптована для різних розмірів екранів.
+
+**Технології:**
+React, React Router, Axios, TMDB API, Toastify, Spinner, TSParticles, ModernNormalize, React Icons, CLSX.
+
+🔗 [Live Demo](https://goit-react-hw-05-seven-umber.vercel.app) 
+🔗 [GitHub Repository](https://github.com/OlenaShatalova/goit-react-hw-05)
+
+
+
+
 ### 🔵 Web Studio site
 <img src="assets/web-studio.png" width="300" height="200" />
 
