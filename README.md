@@ -1,6 +1,22 @@
 # 🚀 Мої проєкти
 ---
 ---
+### 🔵 Match Stars
+<img src="assets/match-stars.png" width="300" height="auto" />
+
+**Опис:**
+Комерційний проєкт лендингової сторінки, розроблений згідно з макетом та в межах визначеного терміну. В проєкті приймала участь розробника та TeamLead-а.
+
+**Технології:**
+Vite, HTML, SASS, Java Script, Swiper.
+
+🔗 [Live Demo](https://rental-car-sepia.vercel.app) 
+🔗 [GitHub Repository](https://github.com/OlenaShatalova/rental-car)
+
+
+---
+
+
 ### 🔵 Rental Car
 <img src="assets/rental-car.png" width="300" height="200" />
 
