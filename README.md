@@ -1,6 +1,22 @@
 # 🚀 Мої проєкти
+mykkolas.github.io/stp-8612/
 ---
 ---
+### 🔵 Dream Match
+<img src="assets/dream-match.png" width="300" height="auto" />
+
+**Опис:**
+Комерційний проєкт лендингової сторінки, розроблений згідно з макетом та в межах визначеного терміну. В проєкті приймала участь розробника.
+
+**Технології:**
+Vite, HTML, SASS, Java Script, Swiper.
+
+🔗 [Live Demo](https://mykkolas.github.io/stp-8612/) 
+🔗 [GitHub Repository](https://github.com/Mykkolas/stp-8612)
+
+===
+
+
 ### 🔵 Match Stars
 <img src="assets/match-stars.png" width="300" height="auto" />
 
@@ -10,8 +26,8 @@
 **Технології:**
 Vite, HTML, SASS, Java Script, Swiper.
 
-🔗 [Live Demo](https://rental-car-sepia.vercel.app) 
-🔗 [GitHub Repository](https://github.com/OlenaShatalova/rental-car)
+🔗 [Live Demo](https://olenashatalova.github.io/stp-8306/) 
+🔗 [GitHub Repository](https://github.com/OlenaShatalova/stp-8306)
 
 
 ---
