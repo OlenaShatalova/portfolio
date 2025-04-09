@@ -1,5 +1,4 @@
 # 🚀 Мої проєкти
-mykkolas.github.io/stp-8612/
 ---
 ---
 ### 🔵 Dream Match
